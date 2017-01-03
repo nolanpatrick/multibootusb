@@ -7,5 +7,5 @@ WARNING and DISCLAIMER: This will destroy all data on the target USB drive and m
 
 2. Next you need to create a single ext4 partition spanning the whole drive. "/dev/sdax" is the drive enumeration of your USB stick. It is important to choose the correct one.
 ```bash
-$ mkfs.ext4 /dev/sdx1
+# mkfs.ext4 /dev/sdx1
 ```
