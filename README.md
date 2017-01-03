@@ -5,8 +5,7 @@ WARNING and DISCLAIMER: This will destroy all data on the target USB drive and m
 
 1. To begin you must create a new MSDOS partision table on the drive you would like to use. This will wipe all data on the USB disk so make sure you back up anything important.
 
-2. Next you need to create a single ext4 partition spanning the whole drive. 
+2. Next you need to create a single ext4 partition spanning the whole drive. "/dev/sdax" is the drive enumeration of your USB stick. It is important to choose the correct one.
 ```
 $ mkfs.ext4 /dev/sdx1
 ```
- where x is the drive enumeration of the USB drive. 
