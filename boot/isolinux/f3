@@ -1,0 +1,20 @@
+0f                                                                           
+0f 12ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿17
+0f 12³ 1a>>>1e            KNOPPIX V7.6.1 CHEATCODES (F1 for main page)            1a<<<12 ³17
+0f 12ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ17
+0f 1bThe KNOPPIX autoconfiguration scripts accept the following                    17
+0f 1bboot options, which can be combined:                                          17
+0f 70ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿17
+0f 70³knoppix lang=us|cs|da|de|es|fr|it|nl|pl|ru|sk|...      Set keyboard/language³17
+0f 70³knoppix desktop=lxde|kde|gnome          Choose desktop                      ³17
+0f 70³knoppix screen=1280x1024 depth=24       Use given resolution for graphics   ³17
+0f 70³knoppix tohd=/dev/sda1                  Copy to harddisk                    ³17
+0f 70³fb1280x1024 | fb1024x768 | fb800x600    fixed framebuffer graphics          ³17
+0f 70³knoppix acpi=off nolapic hpet=off nodma "Cheats", can solve problems        ³17
+0f 70³knoppix nomodeset nocomposite no3d 3d   Workarounds for bad graphics cards  ³17
+0f 70³knoppix vsync=85 hsync=78               85Hz vert. / 78kHz horiz. frequency ³17
+0f 70³knoppix 2                               Runlevel 2, textmode only           ³17
+0f 70³knoppix no{scsi|pcmcia|usb|agp|swap|apm|apic|mce|ddc} turn off HW-detection ³17
+0f 70ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ17
+0f 1bMore information can be found inside directory "KNOPPIX".                     0f
+
